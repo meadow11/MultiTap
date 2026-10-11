@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiTap</string>
+    <string name="accessibility_service_description">MultiTap provides a floating rapid-tap multiplier overlay. While the button is pressed and held, it performs continuous automated taps inside its on-screen boundary. MultiTap does not read, intercept, or inspect your screen content.</string>
+</resources>
